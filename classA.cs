@@ -18,12 +18,12 @@ namespace Ayhaga
             //lines
             //lines
             //lines
-            
+
         }
 
         void Method2()
         {
-
+            //this is better code
         }
     }
 }
